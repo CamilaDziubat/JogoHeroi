@@ -1,0 +1,14 @@
+C:\Projetos\JogoHeroi\bin\Debug\net10.0\JogoHeroi.exe
+C:\Projetos\JogoHeroi\bin\Debug\net10.0\JogoHeroi.deps.json
+C:\Projetos\JogoHeroi\bin\Debug\net10.0\JogoHeroi.runtimeconfig.json
+C:\Projetos\JogoHeroi\bin\Debug\net10.0\JogoHeroi.dll
+C:\Projetos\JogoHeroi\bin\Debug\net10.0\JogoHeroi.pdb
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.AssemblyInfoInputs.cache
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.AssemblyInfo.cs
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.csproj.CoreCompileInputs.cache
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.dll
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\refint\JogoHeroi.dll
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.pdb
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\JogoHeroi.genruntimeconfig.cache
+C:\Projetos\JogoHeroi\obj\Debug\net10.0\ref\JogoHeroi.dll
